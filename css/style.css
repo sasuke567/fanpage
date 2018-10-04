@@ -17,3 +17,20 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header {
+    display:flex;
+    justify-content:center;
+}
+.navbar {
+    display:flex;
+    justify-content: space-around ;
+}
+.aboutMain {
+    display:flex;
+}
+.leftPane {
+    width:20%;
+}
+.rightPane {
+    width: 50%;
+}
