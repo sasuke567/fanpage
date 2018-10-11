@@ -34,3 +34,6 @@ a {
 .rightPane {
     width: 50%;
 }
+.gallery {
+   display:flex; 
+}
